@@ -1,2 +1,2 @@
 # Logica_Programacao_Java
-Para você que está iniciando em programacão ou ainda, iniciando no desenvolvimento java esse curso COMPLETO e GRATUITO da @Kamilahsantosé para você. Durante uma hora você vai aprender sobre: Variaveis, constantes, Operadores, Estruturas condicionais e Estruturas de repetição.
+Para você que está iniciando em programacão ou ainda, iniciando no desenvolvimento java esse curso COMPLETO e GRATUITO da @Kamilahsantos é para você. Durante uma hora você vai aprender sobre: Variaveis, constantes, Operadores, Estruturas condicionais e Estruturas de repetição.
