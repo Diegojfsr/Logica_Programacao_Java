@@ -1,4 +1,4 @@
-# Logica_Programacao_Java
+#  Lógica de programação com Java, aprenda a programar do ZERO
 Para você que está iniciando em programacão ou ainda, iniciando no desenvolvimento java esse curso COMPLETO e GRATUITO da @Kamilahsantos é para você. Durante uma hora você vai aprender sobre: <br>
 Variaveis, constantes, Operadores, Estruturas condicionais e Estruturas de repetição.
 
