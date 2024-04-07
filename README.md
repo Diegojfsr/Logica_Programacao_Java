@@ -4,40 +4,23 @@ Variaveis, constantes, Operadores, Estruturas condicionais e Estruturas de repet
 
 
 <a href="https://youtu.be/EoApbLx9jeg"> Link do Vídeo </a> <br>
-<!--
+
 ## JAVA
 
-1. O que é Java?
-    - POO
-    - Fortemente tipada
-    - Independente de plataforma
+1. <a href="https://github.com/Diegojfsr/Logica_Programacao_Java/blob/main/Variaveis.java"> Variáveis </a>
+2. <a href="https://"> Operador Atribuição </a>
+3. <a href="https://github.com/Diegojfsr/Logica_Programacao_Java/blob/main/OperadoresLogicos.java"> Operador Lógico </a>
+4. <a href="https://github.com/Diegojfsr/Logica_Programacao_Java/blob/main/OperadoresMatematicos.java"> Operador Mátemático </a>
+5. <a href="https://github.com/Diegojfsr/Logica_Programacao_Java/blob/main/OperadoresRelacionais.java"> Operador Relacional </a>
+6. <a href="https://github.com/Diegojfsr/Logica_Programacao_Java/blob/main/OperadorIgualdade.java"> Operador Igualdade </a>
+7. <a href="https://github.com/Diegojfsr/Logica_Programacao_Java/blob/main/OperadorIncrementoDecremento.java"> Operador Incremento </a>
+8. <a href="https://github.com/Diegojfsr/Logica_Programacao_Java/blob/main/OperadorIncrementoDecremento.java"> Operador Decremento </a>
+9. <a href="https://github.com/Diegojfsr/Logica_Programacao_Java/blob/main/Condicionais.java"> Condicionais </a>
+10. <a href="https://github.com/Diegojfsr/Logica_Programacao_Java/blob/main/Loops.java"> Repetição </a>
+11. <a href="https://github.com/Diegojfsr/Logica_Programacao_Java/blob/main/SwitchCase.java"> Switch Case </a>
 
-2. O que é JVM?
-3. Instalação
-    - JDK Development Kit  <a href="https://www.oracle.com/br/java/technologies/downloads/#java17"> Baixar o JDK Development Kit 17.0.10  </a>   
-4. Ambiente de Desenvolviemnto
-    - IntelliJ IDEA <a href="https://www.jetbrains.com/idea/download/?section=windows"> Baixar o IntelliJ IDEA Community Edition </a>  
 
-5. Sintaxe Básica
-    - Variáveis
-    - Tipos primitivos
-    - Condicionais
-    - Vetor
-    - ArrayList
-    - Loops
-    - Casting
 
-6. Programação Orientada a Objetos
-    - Classes
-    - Construtor
-    - Objetos
-    - Modificadores de acesso
-    - Herança
-    - Polimorfismo
-
-7. Compilando
-8. Execultando
--->
 ## 🤝 Contribuindo
 Este repositório foi criado para fins de estudo, então contribua com ele. Se te ajudei de alguma forma, ficarei feliz em
 saber. E caso você conheça alguém que se identidique com o conteúdo, não deixe de compatilhar.
