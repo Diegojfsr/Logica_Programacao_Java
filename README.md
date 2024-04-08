@@ -16,8 +16,8 @@ Variaveis, constantes, Operadores, Estruturas condicionais e Estruturas de repet
 7. <a href="https://github.com/Diegojfsr/Logica_Programacao_Java/blob/main/OperadorIncrementoDecremento.java"> Operador Incremento </a>
 8. <a href="https://github.com/Diegojfsr/Logica_Programacao_Java/blob/main/OperadorIncrementoDecremento.java"> Operador Decremento </a>
 9. <a href="https://github.com/Diegojfsr/Logica_Programacao_Java/blob/main/Condicionais.java"> Condicionais </a>
-10. <a href="https://github.com/Diegojfsr/Logica_Programacao_Java/blob/main/Loops.java"> Repetição </a>
-11. <a href="https://github.com/Diegojfsr/Logica_Programacao_Java/blob/main/SwitchCase.java"> Switch Case </a>
+10. <a href="https://github.com/Diegojfsr/Logica_Programacao_Java/blob/main/SwitchCase.java"> Switch Case </a>
+11. <a href="https://github.com/Diegojfsr/Logica_Programacao_Java/blob/main/Loops.java"> Repetição </a>
 
 
 
